@@ -3,5 +3,5 @@ This is the info for the last game you ran.
 File: jam.sfc Header: No
 NBA JAM TOURNAMENT ED     TYPE:NORMAL   
 INTERLEAVED:No               CHKSUM:FAIL
-VIDEO:NTSC    BANK:Lo     CRC32:D25487F0
+VIDEO:NTSC    BANK:Lo     CRC32:FB534E81
 BAD ROM                                 
